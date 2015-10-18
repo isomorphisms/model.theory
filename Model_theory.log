@@ -1,0 +1,621 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.6)  18 OCT 2015 15:30
+entering extended mode
+ %&-line parsing enabled.
+**Model_theory.tex
+(./Model_theory.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/amscls/amsbook.cls
+Document Class: amsbook 2009/07/02 v2.20.1
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 367.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+\copyins=\insert233
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@chapter=\count92
+\c@section=\count93
+\c@subsection=\count94
+\c@subsubsection=\count95
+\c@paragraph=\count96
+\c@subparagraph=\count97
+\c@figure=\count98
+\c@table=\count99
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+\@indexfile=\write3
+\openout3 = `Model_theory.idx'.
+
+
+Writing index file Model_theory.idx
+\c@theorem=\count100
+\c@lemma=\count101
+\c@corollary=\count102
+\c@exercise=\count103
+\c@examples=\count104
+\c@definition=\count105
+No file Model_theory.aux.
+\openout1 = `Model_theory.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Try loading font information for U+msa on input line 126.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 126.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 137.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 137.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+[2]
+Contents
+No file Model_theory.toc.
+\tf@toc=\write4
+\openout4 = `Model_theory.toc'.
+
+[3
+
+
+]
+Chapter 0
+[4
+
+
+]
+LaTeX Font Info:    Try loading font information for U+euf on input line 404.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
+) [5] [6]
+
+LaTeX Warning: Reference `X:form' on page 7 undefined on input line 565.
+
+
+LaTeX Warning: Reference `E:recon' on page 7 undefined on input line 569.
+
+
+LaTeX Warning: Reference `X:term' on page 7 undefined on input line 569.
+
+[7]
+
+LaTeX Warning: Reference `L:zippy' on page 8 undefined on input line 645.
+
+
+LaTeX Warning: Reference `L:zippy' on page 8 undefined on input line 660.
+
+[8] [9] [10]
+Chapter 1
+[11
+
+
+]
+
+LaTeX Warning: Reference `X:theory' on page 12 undefined on input line 1151.
+
+[12]
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1155.
+
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1159.
+
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1163.
+
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1167.
+
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1173.
+
+
+LaTeX Warning: Reference `X:real' on page 13 undefined on input line 1189.
+
+
+LaTeX Warning: Reference `X:theory' on page 13 undefined on input line 1197.
+
+[13]
+Chapter 2
+[14
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1411
+
+ []
+
+[15] [16] [17]
+
+LaTeX Warning: Reference `L:sat' on page 18 undefined on input line 1639.
+
+
+LaTeX Warning: Reference `L:sat' on page 18 undefined on input line 1651.
+
+
+LaTeX Warning: Reference `L:altform' on page 18 undefined on input line 1658.
+
+
+LaTeX Warning: Reference `L:altform' on page 18 undefined on input line 1659.
+
+[18]
+
+LaTeX Warning: Reference `L:altform' on page 19 undefined on input line 1705.
+
+
+LaTeX Warning: Reference `L:sat' on page 19 undefined on input line 1728.
+
+
+LaTeX Warning: Reference `L:sat' on page 19 undefined on input line 1736.
+
+[19] [20] [21]
+
+LaTeX Warning: Reference `L:closed' on page 22 undefined on input line 1936.
+
+
+LaTeX Warning: Reference `X:axioms' on page 22 undefined on input line 1953.
+
+
+LaTeX Warning: Reference `T:fields' on page 22 undefined on input line 1993.
+
+
+LaTeX Warning: Reference `T:acf0' on page 22 undefined on input line 1994.
+
+
+LaTeX Warning: Reference `L:com' on page 22 undefined on input line 1994.
+
+
+LaTeX Warning: Reference `X:dloivt' on page 22 undefined on input line 1994.
+
+[22] [23]
+Chapter 3
+
+LaTeX Warning: Reference `D:diagram' on page 24 undefined on input line 2078.
+
+[24
+
+
+]
+
+LaTeX Warning: Reference `D:iso' on page 25 undefined on input line 2162.
+
+[25]
+
+LaTeX Warning: Reference `T:compact' on page 26 undefined on input line 2305.
+
+[26] [27] [28] [29] [30]
+
+LaTeX Warning: Reference `T:rob' on page 31 undefined on input line 2703.
+
+
+LaTeX Warning: Reference `T:rob' on page 31 undefined on input line 2704.
+
+
+LaTeX Warning: Reference `T:rob' on page 31 undefined on input line 2705.
+
+
+LaTeX Warning: Reference `T:rob' on page 31 undefined on input line 2706.
+
+
+LaTeX Warning: Reference `T:rob' on page 31 undefined on input line 2730.
+
+
+LaTeX Warning: Reference `T:cit' on page 31 undefined on input line 2730.
+
+[31]
+Chapter 4
+
+LaTeX Warning: Reference `X:expand' on page 32 undefined on input line 2839.
+
+[32
+
+
+]
+
+LaTeX Warning: Reference `L:prenex' on page 33 undefined on input line 2848.
+
+[33]
+
+LaTeX Warning: Reference `X:diagram' on page 34 undefined on input line 2928.
+
+[34]
+
+LaTeX Warning: Reference `X:verify' on page 35 undefined on input line 3000.
+
+
+LaTeX Warning: Reference `X:diagram' on page 35 undefined on input line 3009.
+
+
+LaTeX Warning: Reference `X:expand' on page 35 undefined on input line 3010.
+
+[35]
+
+LaTeX Warning: Reference `X:verify' on page 36 undefined on input line 3096.
+
+
+LaTeX Warning: Reference `X:verify' on page 36 undefined on input line 3102.
+
+
+LaTeX Warning: Reference `X:verify' on page 36 undefined on input line 3121.
+
+
+LaTeX Warning: Reference `T:robinson' on page 36 undefined on input line 3127.
+
+[36]
+
+LaTeX Warning: Reference `X:expand' on page 37 undefined on input line 3204.
+
+
+LaTeX Warning: Reference `X:expand' on page 37 undefined on input line 3207.
+
+
+LaTeX Warning: Reference `X:cat' on page 37 undefined on input line 3258.
+
+
+LaTeX Warning: Reference `L:closed' on page 37 undefined on input line 3264.
+
+
+LaTeX Warning: Reference `T:robinson' on page 37 undefined on input line 3281.
+
+
+LaTeX Warning: Reference `T:mcomp' on page 37 undefined on input line 3282.
+
+[37]
+
+LaTeX Warning: Reference `T:mcomp' on page 38 undefined on input line 3307.
+
+
+LaTeX Warning: Reference `T:Leibniz' on page 38 undefined on input line 3317.
+
+
+LaTeX Warning: Reference `E:m.c.impliesc.' on page 38 undefined on input line 3
+320.
+
+[38]
+Chapter 5
+[39
+
+
+] [40] [41]
+
+LaTeX Warning: Reference `X:uni-exi' on page 42 undefined on input line 3548.
+
+[42]
+
+LaTeX Warning: Reference `X:verify' on page 43 undefined on input line 3596.
+
+
+LaTeX Warning: Reference `X:uni-exi' on page 43 undefined on input line 3606.
+
+
+LaTeX Warning: Reference `L:Art' on page 43 undefined on input line 3646.
+
+
+LaTeX Warning: Reference `X:real' on page 43 undefined on input line 3655.
+
+[43]
+
+LaTeX Warning: Reference `L:sum' on page 44 undefined on input line 3657.
+
+
+LaTeX Warning: Reference `L:ofrcf' on page 44 undefined on input line 3662.
+
+
+LaTeX Warning: Reference `T:robinson' on page 44 undefined on input line 3677.
+
+
+LaTeX Warning: Reference `X:real' on page 44 undefined on input line 3697.
+
+
+LaTeX Warning: Reference `L:sum' on page 44 undefined on input line 3698.
+
+
+LaTeX Warning: Reference `L:Art' on page 44 undefined on input line 3700.
+
+
+LaTeX Warning: Reference `E:rcthm' on page 44 undefined on input line 3707.
+
+
+LaTeX Warning: Reference `E:m.c.RCF' on page 44 undefined on input line 3707.
+
+[44]
+Chapter 6
+
+LaTeX Warning: Reference `T:subcom' on page 45 undefined on input line 3736.
+
+
+LaTeX Warning: Reference `T:robinson' on page 45 undefined on input line 3748.
+
+
+LaTeX Warning: Reference `L:com' on page 45 undefined on input line 3780.
+
+
+LaTeX Warning: Reference `T:robinson' on page 45 undefined on input line 3785.
+
+
+LaTeX Warning: Reference `L:prenex' on page 45 undefined on input line 3785.
+
+[45
+
+
+]
+
+LaTeX Warning: Reference `X:eeek' on page 46 undefined on input line 3842.
+
+[46]
+
+LaTeX Warning: Reference `L:com' on page 47 undefined on input line 3967.
+
+
+LaTeX Warning: Reference `X:diagram' on page 47 undefined on input line 3970.
+
+[47]
+
+LaTeX Warning: Reference `X:four' on page 48 undefined on input line 4010.
+
+[48]
+
+LaTeX Warning: Reference `E:addconstants' on page 49 undefined on input line 40
+68.
+
+[49]
+Chapter 7
+
+LaTeX Warning: Reference `T:robinson' on page 50 undefined on input line 4162.
+
+
+LaTeX Warning: Reference `D:theory' on page 50 undefined on input line 4171.
+
+[50
+
+
+]
+
+LaTeX Warning: Reference `X:expand' on page 51 undefined on input line 4191.
+
+
+LaTeX Warning: Reference `T:robinson' on page 51 undefined on input line 4208.
+
+
+LaTeX Warning: Reference `X:eeek' on page 51 undefined on input line 4214.
+
+
+LaTeX Warning: Reference `X:verify' on page 51 undefined on input line 4216.
+
+
+LaTeX Warning: Reference `X:iso' on page 51 undefined on input line 4217.
+
+
+LaTeX Warning: Reference `T:robinson' on page 51 undefined on input line 4234.
+
+
+LaTeX Warning: Reference `X:axioms' on page 51 undefined on input line 4253.
+
+[51]
+
+LaTeX Warning: Reference `T:subcom' on page 52 undefined on input line 4312.
+
+
+LaTeX Warning: Reference `T:subcom' on page 52 undefined on input line 4344.
+
+
+LaTeX Warning: Reference `T:tstsubcom' on page 52 undefined on input line 4344.
+
+
+
+LaTeX Warning: Reference `T:modcomp' on page 52 undefined on input line 4345.
+
+
+LaTeX Warning: Reference `T:modcomp' on page 52 undefined on input line 4347.
+
+
+LaTeX Warning: Reference `L:ofrcf' on page 52 undefined on input line 4360.
+
+
+LaTeX Warning: Reference `T:modcomp' on page 52 undefined on input line 4364.
+
+[52]
+
+LaTeX Warning: Reference `L:type' on page 53 undefined on input line 4444.
+
+
+LaTeX Warning: Reference `L:type' on page 53 undefined on input line 4446.
+
+[53]
+
+LaTeX Warning: Reference `L:type' on page 54 undefined on input line 4495.
+
+
+LaTeX Warning: Reference `X:cat' on page 54 undefined on input line 4498.
+
+
+LaTeX Warning: Reference `L:Type' on page 54 undefined on input line 4513.
+
+[54]
+
+LaTeX Warning: Reference `T:tec' on page 55 undefined on input line 4545.
+
+
+LaTeX Warning: Reference `L:Type' on page 55 undefined on input line 4547.
+
+
+LaTeX Warning: Reference `T:subcom' on page 55 undefined on input line 4601.
+
+
+LaTeX Warning: Reference `T:modcomp' on page 55 undefined on input line 4601.
+
+
+LaTeX Warning: Reference `T:tstsubcom' on page 55 undefined on input line 4602.
+
+
+
+LaTeX Warning: Reference `T:modcomp' on page 55 undefined on input line 4603.
+
+
+LaTeX Warning: Reference `L:vaught' on page 55 undefined on input line 4611.
+
+
+LaTeX Warning: Reference `X:eeek' on page 55 undefined on input line 4622.
+
+[55] [56] [57] [58]
+
+LaTeX Warning: Reference `L:ofrcf' on page 59 undefined on input line 4886.
+
+No file Model_theory.bbl.
+No file Model_theory.ind.
+[59] (./Model_theory.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1819 strings out of 493848
+ 18843 string characters out of 1152823
+ 77640 words of memory out of 3000000
+ 4959 multiletter control sequences out of 15000+50000
+ 11633 words of font info for 45 fonts, out of 3000000 for 9000
+ 875 hyphenation exceptions out of 8191
+ 34i,9n,26p,391b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi5.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/euler
+/eufm7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam7.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on Model_theory.pdf (61 pages, 507798 bytes).
+PDF statistics:
+ 295 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
