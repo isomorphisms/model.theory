@@ -1,6 +1,11 @@
-The book _Fundamentals of Model Theory_ by William Weiss and Cherie D'Mello is available [here](http://www.math.toronto.edu/weiss/model_theory.html).
+# _Fundamentals of Model Theory_ by William Weiss and Cherie D'Mello
 
-> I am putting it on GitHub, in accordance with the authors’ copyright requests, so that individuals can improve it in a central location. —@isomorphisms
+## editable online copy
+
+
+
+
+William de Weiss has given me permission by email (as well as in the copyright requests made [here](http://www.math.toronto.edu/weiss/model_theory.html)) to post a copy on GitHub, so that individuals can improve it in a central location. —@isomorphisms
 
 Below is the Introduction from the book. 
 
